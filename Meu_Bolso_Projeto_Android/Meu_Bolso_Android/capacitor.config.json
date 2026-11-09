@@ -1,0 +1,11 @@
+{
+  "appId": "br.com.sowrato.meubolso",
+  "appName": "Meu Bolso",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "Preferences": {
+      "group": "MeuBolso"
+    }
+  }
+}
